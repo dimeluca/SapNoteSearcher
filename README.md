@@ -1,13 +1,3 @@
-
-<!-- TABLE OF CONTENTS -->
-<li>
-  <a href="#about-the-project">About The Project</a>
-</li>
-<li>
-  <a href="#built-with">Built With</a>
-</li>
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 A simple SAP Note Searcher
