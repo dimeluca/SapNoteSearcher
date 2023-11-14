@@ -1,0 +1,14 @@
+{
+    "name": "SAP Notes & KBA Searcher",
+    "version": "1.0.0",
+    "description": "Search for SAP Notes and SAP KBA",
+    "manifest_version": 3,
+    "author": "L. D.",
+	"content_security_policy": {
+	  "extension_page": "script-src 'self'; input-type 'self'"
+	},
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "SAP Notes & KBA Searcher"
+    }
+}
